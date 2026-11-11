@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-DsKLSDJq.js";import{t}from"./badge-B0oIkw_S.js";var n=e();function r(){return(0,n.jsx)(`div`,{className:`flex flex-wrap items-center gap-3`,children:[`default`,`secondary`,`outline`,`brand`,`success`,`warning`,`danger`,`destructive`].map(e=>(0,n.jsx)(t,{variant:e,children:e},e))})}export{r as default};

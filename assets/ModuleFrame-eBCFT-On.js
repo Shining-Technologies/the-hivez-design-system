@@ -1,0 +1,14 @@
+import{t as e}from"./jsx-runtime-DsKLSDJq.js";import{i as t,l as n,n as r,o as i,r as a,s as o,t as s,u as c}from"./Prose-D5598Lv0.js";import{t as l}from"./PropsTable-DGyOSXbS.js";var u=e(),d=`<ModulePage>
+  <ModuleSidebar title module navLabel items action />
+  <div className={MODULE_COLUMN}>
+    <ModuleTitleRow title summary layout onLayout />
+    <ModuleToolbar count end>
+      <ModuleFilterRow>
+        <QuickField … />
+        <ModuleFilterDivider />
+        <SortMenu … />
+      </ModuleFilterRow>
+    </ModuleToolbar>
+    <div className={MODULE_SCROLL}>…rows, tiles or an EmptyState…</div>
+  </div>
+</ModulePage>`;function f(){return(0,u.jsxs)(a,{children:[(0,u.jsxs)(i,{children:[`The module page frame is defined once, in `,(0,u.jsx)(s,{children:`components/shared/layout/`}),`, and every module composes it. A module never writes its own padding, card or sidebar. See it whole on `,(0,u.jsx)(o,{to:`patterns/module-page`,children:`Module page`}),`.`]}),(0,u.jsx)(t,{children:`Anatomy`}),(0,u.jsx)(c,{code:d}),(0,u.jsx)(l,{caption:`Parts of the frame`,rows:[{name:`ModulePage`,type:`component`,description:`The frame: one card, one padding.`},{name:`ModuleSidebar`,type:`component`,description:`Module glyph beside the h1, a full-width New, grouped rows. width page | window.`},{name:`MODULE_COLUMN`,type:`class constant`,description:`The content column beside the sidebar.`},{name:`ModuleTitleRow`,type:`component`,description:`The view name as an h2, one muted summary, the Layout toggle.`},{name:`ModuleToolbar`,type:`component`,description:`Holds the filter row and an optional count and end slot.`},{name:`MODULE_SCROLL`,type:`class constant`,description:`The one scroller. Nothing else in the frame scrolls.`}]}),(0,u.jsx)(t,{children:`Title row and toolbar`}),(0,u.jsx)(i,{children:`The two bands above the scroller, on their own.`}),(0,u.jsx)(n,{name:`module-frame/title-row-toolbar`,layout:`start`}),(0,u.jsx)(t,{children:`Constants`}),(0,u.jsxs)(i,{children:[`The paddings are constants in `,(0,u.jsx)(s,{children:`moduleFrame.ts`}),`.`]}),(0,u.jsx)(n,{name:`shape/module-frame-spacing`,layout:`start`}),(0,u.jsxs)(r,{title:`On the glass plate`,children:[`In Funky Glass the page sits on the glass plate (`,(0,u.jsx)(s,{children:`page-plate`}),` on the main element, `,(0,u.jsx)(s,{children:`page-plate-underlay`}),` behind it) and the frame sheds its own border and padding (`,(0,u.jsx)(s,{children:`plated:`}),`). In Remote Desk and Hivez those two classes are inert and the page is a plain box. That is the only difference, and it is paint, not placement.`]})]})}export{f as default};

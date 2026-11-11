@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-DsKLSDJq.js";import{_ as t}from"./index-BnXkxsGC.js";var n=e();function r(){return(0,n.jsxs)(`div`,{className:`flex flex-wrap items-center gap-3`,children:[(0,n.jsx)(t,{variant:`link`,children:`Read the guide`}),(0,n.jsx)(t,{asChild:!0,variant:`secondary`,children:(0,n.jsx)(`a`,{href:`#settings`,children:`Settings`})})]})}export{r as default};

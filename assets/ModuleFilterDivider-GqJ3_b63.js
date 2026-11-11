@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-DsKLSDJq.js";import{n as t}from"./utils-DnmOggk1.js";var n=e();function r({className:e}){return(0,n.jsx)(`span`,{"aria-hidden":!0,"data-filter-sort-divider":``,className:t(`h-5 w-px shrink-0 self-center bg-border`,e)})}export{r as t};

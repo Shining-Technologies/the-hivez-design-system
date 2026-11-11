@@ -1,0 +1,1 @@
+import"./chunk-QTnfLwEv.js";import{t as e}from"./react-sKtkuLrH.js";import{t}from"./jsx-runtime-DsKLSDJq.js";import{n}from"./utils-DnmOggk1.js";import{m as r,u as i}from"./index-BnXkxsGC.js";e();var a=t();function o({className:e,size:t,...o}){return(0,a.jsx)(`textarea`,{"data-slot":`textarea`,className:n(r({size:t}),i,e),...o})}export{o as t};

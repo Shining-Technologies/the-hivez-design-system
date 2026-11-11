@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-DsKLSDJq.js";import{DriveFrame as t}from"./drive-DBBrFwpE.js";var n=e();function r(){return(0,n.jsx)(t,{empty:!0})}export{r as default};

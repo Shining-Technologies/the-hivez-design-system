@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-DsKLSDJq.js";import{t}from"./plus-BgeGPc4n.js";import{_ as n}from"./index-BnXkxsGC.js";var r=e();function i(){return(0,r.jsx)(`div`,{className:`w-64`,children:(0,r.jsxs)(n,{variant:`primary`,size:`lg`,className:`w-full`,children:[(0,r.jsx)(t,{"aria-hidden":!0}),`New meeting`]})})}export{i as default};
